@@ -100,8 +100,8 @@ python main.py
 🎯 Purpose
 
 This project demonstrates:
-       - Real-time voice orchestration
-       - Conversational state management
-       - Multilingual intent handling
-       - Latency awareness
-       - System-level engineering thinking
+- Real-time voice orchestration
+- Conversational state management
+- Multilingual intent handling
+- Latency awareness
+- System-level engineering thinking
