@@ -1,0 +1,42 @@
+{
+  "policy_status": {
+    "en": "Your policy is currently active.",
+    "hi": "Aapki policy abhi active hai."
+  },
+  "policy_expiry": {
+    "en": "Your policy will expire on 31st December.",
+    "hi": "Aapki policy 31 December ko expire hogi."
+  },
+  "premium_amount": {
+    "en": "Your premium amount is 5,000 rupees.",
+    "hi": "Aapki premium amount 5,000 rupaye hai."
+  },
+  "claim_status": {
+    "en": "Your claim is under review.",
+    "hi": "Aapka claim review mein hai."
+  },
+  "claim_process": {
+    "en": "To raise a claim, please visit our website or contact support.",
+    "hi": "Claim raise karne ke liye website visit karein ya support se baat karein."
+  },
+  "customer_care": {
+    "en": "You can contact customer care at 1800-123-456.",
+    "hi": "Aap customer care se 1800-123-456 par sampark kar sakte hain."
+  },
+  "update_mobile": {
+    "en": "You can update your mobile number through our app.",
+    "hi": "Aap app ke through apna mobile number update kar sakte hain."
+  },
+  "otp_not_received": {
+    "en": "If OTP was not received, I can resend it.",
+    "hi": "Agar OTP nahi aaya, main dobara bhej sakta hoon."
+  },
+  "policy_document": {
+    "en": "Your policy document has been sent to your email.",
+    "hi": "Aapka policy document aapke email par bhej diya gaya hai."
+  },
+  "greeting": {
+    "en": "Hello! How can I help you today?",
+    "hi": "Namaste! Main aapki kya madad kar sakta hoon?"
+  }
+}
