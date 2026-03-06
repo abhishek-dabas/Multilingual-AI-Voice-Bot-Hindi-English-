@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+tts_output/
+*.mp3
+*.wav
+logs/
 
 # C extensions
 *.so
