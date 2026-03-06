@@ -6,6 +6,7 @@ tts_output/
 *.mp3
 *.wav
 logs/
+venv/
 
 # C extensions
 *.so
